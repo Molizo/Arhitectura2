@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536910881 source:c:\users\cerc\desktop\molizo\arhitectura2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
